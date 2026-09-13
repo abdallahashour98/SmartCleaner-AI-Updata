@@ -1,2 +1,3 @@
 # SmartCleaner-AI Updates Repository
-Official update delivery channel and patch distribution repository for SmartCleaner-AI.
+
+Official update channel and patch distribution repository for SmartCleaner-AI.
